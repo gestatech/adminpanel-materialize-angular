@@ -1,7 +1,10 @@
+
+
 # AdminPanelAngular
 
-##How to
-    - npm install
-    - ng serve
+## How to
+    - `npm install`
+    - `ng serve`
 ## Design courtesy
 @timcreative
+
